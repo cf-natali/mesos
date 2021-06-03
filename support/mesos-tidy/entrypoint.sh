@@ -54,7 +54,7 @@ cmake --build 3rdparty --parallel --target libevent-2.1.5-beta || true
 
 cmake --build 3rdparty --parallel --target leveldb-1.19
 cmake --build 3rdparty --parallel --target nvml-352.79
-cmake --build 3rdparty --parallel --target picojson-1.3.0
+cmake --build 3rdparty --parallel --target picojson-1.3.1-dev-111c9be
 cmake --build 3rdparty --parallel --target protobuf-3.5.0
 cmake --build 3rdparty --parallel --target zookeeper-3.4.8
 
